@@ -1,0 +1,9 @@
+name = Extends the Address Field module with additional fields.
+description = Implements a phone number field, salutation and additional address field.
+core = 7.x
+version = "7.x-1.x-dev"
+project = "addressfield_extension"
+package = Fields
+
+dependencies[] = ctools
+dependencies[] = addressfield
